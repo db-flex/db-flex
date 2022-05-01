@@ -5,7 +5,7 @@ class db-flex(ReadMe):
     "/db-flex/db-flex/README.md"
 
     def __init__(self):
-        self.username = "Dropout"
+        self.username = "Flex"
         self.contacts = {
             "Discord": Null,
             "Telegram": Null
